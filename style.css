@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-attachment: scroll;
+    font-family: "Lato", sans-serif;
+    background-color: #e5e5e5;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 700;
+    width: 606px;
+    margin: 60px auto 0;
+    text-align: center;
+}
+.poem{
+    line-height: 2;
+    font-size: 1.125rem;
+    width: 651px;
+    margin: 20px auto 0;
+    text-align: center;
+}
